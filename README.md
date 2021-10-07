@@ -18,4 +18,4 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Moz
 
 Link to final result:
 
-coming soon
+https://jasheloper.github.io/mozilla-splash-page/
