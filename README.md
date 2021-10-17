@@ -5,7 +5,7 @@
 
 Video Link:
 
-coming soon
+https://youtu.be/PyqUkdvGSGY
 
 <br />
 
