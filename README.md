@@ -1,4 +1,4 @@
-# 100DaysOfCode - HTML
+# 100DaysOfCode - HTML Layout
 
 ### MDN skill assessment - Mozilla splash page
 <br />
