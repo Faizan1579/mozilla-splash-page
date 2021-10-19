@@ -1,6 +1,6 @@
-# 100DaysOfCode - HTML Layout
+# 100DaysOfCode - HTML | Responsive Images
 
-### MDN skill assessment - Mozilla splash page
+### MDN skill assessment - Mozilla splash page 
 <br />
 
 Video Link:
