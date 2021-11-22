@@ -1,21 +1,17 @@
-# 100DaysOfCode - HTML | Responsive Images
+# MDN skill assessment - Mozilla splash page • 100DaysOfCode | HTML 
 
-### MDN skill assessment - Mozilla splash page 
-<br />
-
-Video Link:
-
-https://youtu.be/PyqUkdvGSGY
-
-<br />
-
-Assessment Link:
+### Assessment Link:
 
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page
+<br /><br />
 
 
-<br />
+### Video Link (me doing the project):
 
-Link to final result:
+https://youtu.be/PyqUkdvGSGY
+<br /><br />
+
+
+### Link to final result:
 
 https://jasheloper.github.io/mozilla-splash-page/
